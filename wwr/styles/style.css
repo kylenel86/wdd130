@@ -81,6 +81,19 @@ h4 {
     color: #184464;
 }
 
+.msg p {
+    color: #4c7d88;
+}
+
 footer {
     background-color: #508991;
+    color: #ffffff;
+}
+
+footer a {
+    color: #ffffff;
+}
+
+footer a:hover {
+    color: #aba9a9;
 }
