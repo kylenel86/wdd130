@@ -31,7 +31,18 @@ main section {
     background-color: #172A3A;
 }
 
+header {
+    background-color: #508991; 
+}
+
 body {
     background-color: #ffffff;
 }
 
+nav a:hover{
+    background-color: #75DDDD;
+}
+
+.book {
+    background-color: #a8a8a8;
+}
