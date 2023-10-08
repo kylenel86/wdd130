@@ -28,4 +28,10 @@ main section {
 
 #background {
     height: 725px;
+    background-color: #172A3A;
 }
+
+body {
+    background-color: #ffffff;
+}
+
