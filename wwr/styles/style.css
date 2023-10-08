@@ -65,14 +65,20 @@ h4 {
 
 .book:hover {
     background-color: #4c7d88;
+    color: #ffffff;
 }
 
 .join:hover {
     background-color: #4c7d88;
+    color: #ffffff;
 }
 
 .msg {
     background-color: #e3e3e3;
+}
+
+.msg h2 {
+    color: #184464;
 }
 
 footer {
