@@ -109,3 +109,7 @@ footer a {
 footer a:hover {
     color: #aba9a9;
 }
+
+footer p {
+    font-size: 1.2em;
+}
