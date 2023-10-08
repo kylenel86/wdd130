@@ -55,10 +55,12 @@ h4 {
 
 .book {
     background-color: #78c5d7;
+    color: #a8a4a4;
 }
 
 .join {
     background-color: #78c5d7;
+    color: #a8a4a4;
 }
 
 .book:hover {
