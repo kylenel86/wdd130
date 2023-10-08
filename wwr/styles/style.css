@@ -40,9 +40,13 @@ body {
 }
 
 nav a:hover{
-    background-color: #75DDDD;
+    background-color: #345a5f;
 }
 
 .book {
-    background-color: #a8a8a8;
+    background-color: #75DDDD;
+}
+
+.join {
+    background-color: #75DDDD; 
 }
