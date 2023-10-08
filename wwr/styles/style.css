@@ -32,14 +32,14 @@ main section {
 }
 
 header {
-    background-color: #508991; 
+    background-color: #508991;
 }
 
 body {
     background-color: #ffffff;
 }
 
-nav a:hover{
+nav a:hover {
     background-color: #345a5f;
 }
 
@@ -49,4 +49,20 @@ nav a:hover{
 
 .join {
     background-color: #78c5d7;
+}
+
+.book:hover {
+    background-color: #4c7d88;
+}
+
+.join:hover {
+    background-color: #4c7d88;
+}
+
+.msg {
+    background-color: #e3e3e3;
+}
+
+footer {
+    background-color: #508991;
 }
