@@ -8,14 +8,24 @@ content {
 
 nav a {
     text-align: center;
+    color: #ffffff;
 }
 
 #hero-msg h1 {
     text-align: center;
 }
 
+nav a:hover {
+    background-color: #345a5f;
+    color: #aba9a9;
+}
+
 #hero-msg h4 {
     text-align: center;
+}
+
+.home-title {
+    color: #ffffff;
 }
 
 .button-box {
@@ -37,10 +47,6 @@ header {
 
 body {
     background-color: #ffffff;
-}
-
-nav a:hover {
-    background-color: #345a5f;
 }
 
 .book {
