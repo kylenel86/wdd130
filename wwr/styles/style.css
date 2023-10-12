@@ -1,9 +1,6 @@
-div {
-    max-width: 1600px;
-}
-
-content {
+#content {
     margin: 0 auto;
+    max-width: 1600px;
 }
 
 nav a {
@@ -37,7 +34,8 @@ nav a:hover {
     text-align: center;
 }
 
-.icon {
+.icon,
+.logo {
     width: 80px;
 }
 
