@@ -58,6 +58,7 @@ header {
 
 body {
     background-color: #ffffff;
+    font-family: 'Bitter', Georgia, serif;
 }
 
 h4 {
@@ -92,6 +93,7 @@ h4 {
 
 .msg h2 {
     color: #184464;
+    font-family: 'Oswald', Verdana, sans-serif;
 }
 
 .msg p {
