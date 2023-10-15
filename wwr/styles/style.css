@@ -58,6 +58,10 @@ main section {
     text-align: center;
 }
 
+main section img {
+    box-sizing: border-box;
+}
+
 #background {
     height: 725px;
     background-color: #172A3A;
@@ -75,10 +79,6 @@ body {
     padding: 0;
 }
 
-.rivers-card, .camping-card, .rapids-card {
-    margin: 200px 0;
-} 
-
 h2 {
     margin: 0;
 }
@@ -94,6 +94,15 @@ h4 {
     font-size: 18px;
     padding: 15px 30px;
     margin-top: 50px;
+    border-radius: 5px;
+}
+
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
+} 
+
+.card-img {
+    border: 10px solid black;
 }
 
 .book:hover {
