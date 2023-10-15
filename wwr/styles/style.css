@@ -87,7 +87,8 @@ h4 {
     color: #6f7364;
 }
 
-.book, .join {
+.book,
+.join {
     background-color: #78c5d7;
     color: #4d4d4d;
     text-decoration: none;
@@ -97,9 +98,11 @@ h4 {
     border-radius: 5px;
 }
 
-.rivers-card, .camping-card, .rapids-card {
+.rivers-card,
+.camping-card,
+.rapids-card {
     margin: 200px 0;
-} 
+}
 
 .card-img {
     border: 10px solid black;
