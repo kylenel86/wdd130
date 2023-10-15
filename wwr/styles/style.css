@@ -87,7 +87,7 @@ h4 {
     color: #4d4d4d;
     text-decoration: none;
     font-size: 18px;
-    padding: 15px 30px;
+    padding: 15px;
 }
 
 .join {
@@ -95,7 +95,7 @@ h4 {
     color: #4d4d4d;
     text-decoration: none;
     font-size: 18px;
-    padding: 15px 30px;
+    padding: 30px;
 }
 
 .book:hover {
