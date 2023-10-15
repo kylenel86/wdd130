@@ -82,20 +82,13 @@ h4 {
     color: #6f7364;
 }
 
-.book {
+.book, .join {
     background-color: #78c5d7;
     color: #4d4d4d;
     text-decoration: none;
     font-size: 18px;
-    padding: 15px;
-}
-
-.join {
-    background-color: #78c5d7;
-    color: #4d4d4d;
-    text-decoration: none;
-    font-size: 18px;
-    padding: 30px;
+    padding: 15px 30px;
+    margin-top: 50px;
 }
 
 .book:hover {
