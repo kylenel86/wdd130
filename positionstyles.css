@@ -47,17 +47,20 @@ h2{
   .green2 { 
     width: 100px; 
     height: 100px; 
-    background-color: green; 
+    background-color: green;
+    margin: -50 0 0 50px; 
   } 
   .yellow2 {
     width: 100px; 
     height: 100px; 
     background-color: gold; 
+    margin: -50 0 0 100px;
   } 
   .blue2 {
     width: 100px; 
     height: 100px; 
     background-color: blue; 
+    margin: -50 0 0 100px;
   } 
 
   .content3 {
