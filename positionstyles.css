@@ -37,8 +37,7 @@ h2{
   } 
   
   content2 {
-    padding-top: 1px;
-    margin-top: -1px;
+    position: relative;
   }
   .red2 {
     width: 100px; 
