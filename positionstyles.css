@@ -37,7 +37,7 @@ h2{
   } 
   
   content2 {
-    position: relative;
+    position: absolute;
   }
   .red2 {
     width: 100px; 
