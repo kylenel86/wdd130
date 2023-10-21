@@ -109,4 +109,54 @@ h2{
     background-color: blue; 
   } 
 
+  .content5 {
+    /* This is the parent of the activity 5 boxes. */
+    height: 400px;
+  }
+  .red5 { 
+    width: 100px; 
+    height: 100px; 
+    background-color: red; 
+  } 
+  .green5 { 
+    width: 100px; 
+    height: 100px; 
+    background-color: green; 
   
+  } 
+  .yellow5 {
+    width: 100px; 
+    height: 100px; 
+    background-color: gold; 
+  
+  } 
+  .blue5 {
+    width: 100px; 
+    height: 100px; 
+    background-color: blue; 
+  } 
+
+  .content6 {
+    /* This is the parent of the activity 6 boxes. */
+  }
+  .red6 {
+    width: 100px; 
+    height: 100px; 
+    background-color: red; 
+  } 
+  .green6 {
+    width: 100px; 
+    height: 100px; 
+    background-color: green; 
+  } 
+  .yellow6 {
+    width: 100px; 
+    height: 100px; 
+    background-color: gold; 
+  } 
+  .blue6 {
+    width: 100px; 
+    height: 100px; 
+    background-color: blue; 
+  } 
+    
